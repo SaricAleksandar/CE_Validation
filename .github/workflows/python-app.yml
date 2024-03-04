@@ -40,4 +40,4 @@ jobs:
         pip install pyModbusTCP pytest
     - name: Test with pytest
       run: |
-        python pytest.py
+        python ping.py
